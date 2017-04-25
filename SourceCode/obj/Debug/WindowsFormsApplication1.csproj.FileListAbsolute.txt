@@ -1,0 +1,31 @@
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\James\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\James\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\James\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\James\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\James\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\James\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\James\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\James\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\James\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.dll
+C:\Users\James\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.xml
+C:\Users\James\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\guest2\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\guest2\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\guest2\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\guest2\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\guest2\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\guest2\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\guest2\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\guest2\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\guest2\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\guest2\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.dll
+C:\Users\guest2\SkyDrive\Documents\HKU\TechniquesInCompFin\Assign3\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.xml
